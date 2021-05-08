@@ -14,7 +14,7 @@ A aplicação consiste em uma analise de desempenho de vendas realizadas por dif
 ![Web 1]()
 
 ## Layout Dashboard
-![Web 2]()
+![Web 2](https://github.com/webfaria/Minhas-imagens/blob/main/dashbord-sds3.PNG)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/devsuperior/bds-assets/blob/main/sds/sds3-mc.png)
