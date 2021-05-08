@@ -7,17 +7,20 @@ https://cleber-dsvendas.netlify.app/
 
 DSVendas é uma aplicação web construída durante a 3ª edição da **Semana DevSuperior** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em uma analise de desempenho das suas vendas por diferentes perspectivas, que apresenta gráficos com taxa de sucesso em % e total das vendas  por vendedor.
+A aplicação consiste em uma analise de desempenho de vendas realizadas por diferentes perspectivas, que apresenta gráficos com taxa de sucesso em % e total das vendas  por vendedor.
 
 
-## Layout Web Dashboard
+## Layout Home
 ![Web 1]()
 
-## Layout Web Gráficos
+## Layout Dashboard
 ![Web 2]()
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/devsuperior/bds-assets/blob/main/sds/sds3-mc.png)
+
+## Modelo arquitetural
+![Modelo Conceitual](https://github.com/devsuperior/bds-assets/blob/main/sds/camadas.png)
 
 # Tecnologias utilizadas
 ## Back end
