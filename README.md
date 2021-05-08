@@ -11,7 +11,7 @@ A aplicação consiste em uma analise de desempenho de vendas realizadas por dif
 
 
 ## Layout Home
-![Web 1]()
+![Web 1](https://github.com/webfaria/Minhas-imagens/blob/main/home-sds3.PNG)
 
 ## Layout Dashboard
 ![Web 2](https://github.com/webfaria/Minhas-imagens/blob/main/dashbord-sds3.PNG)
