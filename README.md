@@ -1,9 +1,9 @@
-# DSVendas 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/webfaria/projeto-sds3/blob/main/LICENSE) 
+> # DSVendas 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/webfaria/projeto-sds3/blob/main/LICENSE)
 
 # Sobre o projeto
 
-https://cleber-dsvendas.netlify.app/
+✨https://cleber-dsvendas.netlify.app/
 
 DSVendas é uma aplicação web construída durante a 3ª edição da **Semana DevSuperior** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
@@ -22,7 +22,7 @@ A aplicação consiste em uma analise de desempenho de vendas realizadas por dif
 ## Modelo arquitetural
 ![Modelo Conceitual](https://github.com/devsuperior/bds-assets/blob/main/sds/camadas.png)
 
-# Tecnologias utilizadas
+> # Tecnologias utilizadas
 ## Back end
 - Java
 - Spring Boot
@@ -37,10 +37,10 @@ A aplicação consiste em uma analise de desempenho de vendas realizadas por dif
 - Front end web: Netlify
 - Banco de dados: Postgresql
 
-# Como executar o projeto
+> # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
+🔸 Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
@@ -54,7 +54,7 @@ cd backend
 ```
 
 ## Front end web
-Pré-requisitos: npm / yarn
+🔸 Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
@@ -70,8 +70,8 @@ yarn install
 yarn start
 ```
 
-# Autor
+> # Autor
 
-Cleber Faria
+🎓Cleber Faria
 
-https://www.linkedin.com/in/webfaria
+✨https://www.linkedin.com/in/webfaria
